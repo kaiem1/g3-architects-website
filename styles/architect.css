@@ -6,7 +6,7 @@
 }
 
 .btn-primary{
-    
+
 }
 
 /* header styles */
@@ -55,4 +55,17 @@ nav li a {
 }
 .banner-description{
     color: #727272;
+}
+
+.banner-pic{
+    align-items: center;
+    height: 740;
+    width: 1100px;
+    padding: 30px 30px 5px 30px;
+}
+
+.kaiem{
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
